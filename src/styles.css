@@ -1,1 +1,41 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.min.css";
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+body{
+  /*background-color: #1B2430;*/
+
+}
+
+tbody{
+
+}
+
+#navbar{
+  background-color: #51557E;
+}
+
+
+.footer{
+  /*position: absolute;*/
+  /*bottom: 0;*/
+  width: 100%;
+  height: 50px;
+  background-color: #51557E;
+  color: white;
+
+}
+
+.footer-container{
+  text-align: center;
+  margin-top: 12.5px;
+}
+
+
+
+.form-resv{
+  margin-top: 25px;
+}
+
