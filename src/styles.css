@@ -4,19 +4,16 @@
 @import "~font-awesome/css/font-awesome.min.css";
 @import "~bootstrap-icons/font/bootstrap-icons.css";
 
-body{
-  /*background-color: #1B2430;*/
 
-}
-
-tbody{
-
-}
 
 #navbar{
   background-color: #51557E;
 }
 
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
 
 .footer{
   /*position: absolute;*/
